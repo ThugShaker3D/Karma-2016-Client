@@ -1,5 +1,4 @@
 # Karma's Game Client.
-Aesthetiful's Finobe is an attempt to revive the classic finobe.com experience.
 
 ## Requirements for building this game client
 To build the source code, you will need MSVC 2019.
