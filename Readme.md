@@ -1,4 +1,4 @@
-# Aesthetiful's Finobe Game Client.
+# Karma's Game Client.
 Aesthetiful's Finobe is an attempt to revive the classic finobe.com experience.
 
 ## Requirements for building this game client
